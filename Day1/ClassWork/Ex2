@@ -1,5 +1,40 @@
 Date: 12/03/2025
 Practical No: 02
-Problem Specification: 
+Problem Specification: Get the User Input for each on every data types.
+Implementation: 
+class Ex02{
+	public static void main(String [] args)
+	{
+		String fac = "FAS";
+		int n=3;
+		double p=10.5;
+		int m=5;
+		char w1='&';
+		boolean isTH=true;
+		
+		System.out.println(fac);
+		System.out.println(n);
+		System.out.println(m);
+		System.out.println(w1);
+		System.out.println(isTH);
+		
+		System.out.println("My Faculty is "+fac);
+		System.out.println("The result1 is "+(n+m));
+		System.out.println("The result2 is "+(p+m));
+	}
+}
+Output:
+FAS
+3
+10.5
+5
+&
+true
+My Faculty is FAS
+The result1 is 8
+The result2 is 15.5 
+Conclusion: In this int,double,string,char and Boolean tags are used store data and must be property declared before they can be used.
+
+
 
 
