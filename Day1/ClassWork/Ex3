@@ -1,0 +1,30 @@
+Date: 12/03/2025
+Practical No: 03
+Problem Specification: How to use the arithmetic operation.
+Implementation: 
+class Ex03{
+	public static void main(String [] aergs)
+	{
+		int num1=45;
+		int num2=15;
+		
+		System.out.println("num1 is" +num1);
+		System.out.println("num2 is" +num2);
+		
+		System.out.println("Addition is" +(num1+num2));
+		System.out.println("Subsraction is" +(num1-num2));
+		System.out.println("Multipluication is" +(num1*num2));
+		System.out.println("Division is" +(num1/num2));
+		System.out.println("mod is" +(num1%num2));
+	}
+}
+Output:
+num1 is45
+num2 is15
+Addition is60
+Subsraction is30
+Multiplication is675
+Division is3
+Mod is0
+Conclusion: I learned how to use the arithmetic operation. 
+
