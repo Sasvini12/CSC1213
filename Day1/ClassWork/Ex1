@@ -1,9 +1,6 @@
 Date: 12/03/2025
-
 Practical No: 01
-
 Problem Specification: Display "My First Programme in Java" and "Hello Java Developers !!!"
-
 Implementation: 
 //class<class_name>
 class MyFirstJavaProgram{
@@ -13,9 +10,7 @@ class MyFirstJavaProgram{
 		System.out.println("Hello Java Developers !!!");
 	}//end of the main
 }//end of the class.
-
 Output:
         My First Programme in Java
         Hello Java Developers !!!
-
 Conclusion: Learning about basic thing in java program.
