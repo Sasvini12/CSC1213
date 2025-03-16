@@ -1,0 +1,31 @@
+Date: 12/03/2025
+Practical No: 05
+Problem Specification:  
+Implementation:
+class StuDetails{
+	public static void main(String args[])
+	{
+	System.out.println("Name:Sasvinitha Jeyapalan");
+	System.out.println("Registration Number:2022/ASP/54");
+	System.out.println("Degree Programme:Bachelor of Applied Mathematics and Computing");
+	System.out.println();
+	
+	String Name="Sasvinitha Jeyapalan";
+	String RegNo="2022/ASP/54";
+	String Degree="Bachelor of Applied Mathematics and Computing";
+	
+	System.out.println("Full Name:"+Name);
+	System.out.println("Registration Number:"+RegNo);
+	System.out.println("Degree Program:"+Degree);
+	}
+}
+	
+Output:
+Name:Sasvinitha Jeyapalan
+Registration Number:2022/ASP/54
+Degree Programme:Bachelor of Applied Mathematics and Computing
+
+Name:Sasvinitha Jeyapalan
+Registration Number:2022/ASP/54
+Degree Programme:Bachelor of Applied Mathematics and Computing
+Conclusion:  
