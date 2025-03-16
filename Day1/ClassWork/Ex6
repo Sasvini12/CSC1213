@@ -1,0 +1,14 @@
+Date: 12/03/2025
+Practical No: 06
+Problem Specification: Display "First Name,Last Name and Address" in line by line. 
+Implementation: 
+class Ex06{
+	public static void main(String args[]){
+	System.out.println("First Name:Sasvinitha \nLast Name:Jeyapalan \nAddress:Muthur,Trincomalee");
+	}
+}
+Output:
+First Name:Sasvinitha
+Last Name:Jeyapalan
+Address:Muthur,Trincomalee
+Conclusion:Does not display First Name,Last Name,Address in a single line.Next next line will display First Name,Last Name,Address.
